@@ -29,7 +29,7 @@ for module_name in ALL_MODULES:
 
 LOGS.info("You are running Paperplane Extended [v5.0]")
 
-LOGS.info("Congratulations, your userbot is now running !!\
+LOGS.info("Congratulations, your userbot is now running !\
           \nTest it by typing .alive in any chat.")
 
 if len(argv) not in (1, 3, 4):
